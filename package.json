@@ -1,0 +1,19 @@
+{
+  "name": "project-website",
+  "version": "1.0.0",
+  "description": "project website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alan-matea/Project-website.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alan-matea/Project-website/issues"
+  },
+  "homepage": "https://github.com/Alan-matea/Project-website#readme"
+}
